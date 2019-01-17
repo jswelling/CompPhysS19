@@ -10,6 +10,7 @@ import six
 def main():
     print("""
     Hello World, from...
+    fork this
     Joel S. Welling
     James Pupalaikis!!!
     Derek Hamersly,
