@@ -12,14 +12,10 @@ def main():
     Hello World, from...
     Joel S. Welling,
     Derek Hamersly,
-<<<<<<< HEAD
-    Evan Schindewolf
-    Megan Roche
-=======
     Evan Schindewolf,
+    Megan Roche,
     Oscar Dadfar
     Luka Jelenak
->>>>>>> 1a8bd4645cdcae2b416037d8f0114dc4639e830b
     """)
 
 if __name__ == "__main__":
