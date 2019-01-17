@@ -10,7 +10,10 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling
+    Joel S. Welling,
+    Derek Hamersly,
+    Evan Schindewolf,
+    Oscar Dadfar
     Luka Jelenak
     """)
 
