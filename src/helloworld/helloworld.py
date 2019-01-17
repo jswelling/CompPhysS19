@@ -16,7 +16,7 @@ def main():
     Derek Hamersly,
     Evan Schindewolf,
     Megan Roche,
-    Oscar Dadfar
+    Oscar Dadfar again,
     Luka Jelenak is trying his best, okay? :(
     Jalen Kastenberg,
     Jalen Kastenberg!!!!!!
