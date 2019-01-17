@@ -12,7 +12,8 @@ def main():
     Hello World, from...
     Joel S. Welling,
     Derek Hamersly,
-    Evan Schindewolf
+    Evan Schindewolf,
+    Oscar Dadfar
     """)
 
 if __name__ == "__main__":
