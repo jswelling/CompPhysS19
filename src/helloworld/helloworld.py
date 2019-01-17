@@ -12,7 +12,15 @@ def main():
     Hello World, from...
     Joel S. Welling,
     Derek Hamersly,
+<<<<<<< HEAD
     Jalen Kastenberg,
+=======
+    Evan Schindewolf,
+    Megan Roche,
+    Oscar Dadfar
+    Luka Jelenak
+>>>>>>> 2e36c11a0d5894336147a3cfb3507860002eb5f0
+    Jalen Kastenberg!!!!!!
     """)
 
 if __name__ == "__main__":
