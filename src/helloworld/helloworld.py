@@ -10,7 +10,8 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling,
+    Joel S. Welling
+    James Pupalaikis!!!
     Derek Hamersly,
 <<<<<<< HEAD
     Jalen Kastenberg,
