@@ -1,4 +1,4 @@
 def main():
     print("""
-    ACP!
+    Salt-n-Pepah
     """)
