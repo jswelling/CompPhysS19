@@ -10,15 +10,7 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling
-    James Pupalaikis!!!
-    Derek Hamersly,
-    Evan Schindewolf,
-    Megan Roche,
-    Oscar Dadfar
-    Luka Jelenak
-    Jalen Kastenberg,
-    Jalen Kastenberg!!!!!!
+    Just Oscar
     """)
 
 if __name__ == "__main__":
