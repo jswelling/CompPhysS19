@@ -10,13 +10,14 @@ import six
 def main():
     print("""
     Hello World, from...
+    fork this
     Joel S. Welling
     James Pupalaikis!!!
     Derek Hamersly,
     Evan Schindewolf,
     Megan Roche,
     Oscar Dadfar
-    Luka Jelenak
+    Luka Jelenak is trying his best, okay? :(
     Jalen Kastenberg,
     Jalen Kastenberg!!!!!!
     Yu Hang Xia
