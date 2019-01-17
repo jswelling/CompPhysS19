@@ -19,6 +19,8 @@ def main():
     Luka Jelenak
     Jalen Kastenberg,
     Jalen Kastenberg!!!!!!
+
+    Megan: forked edition
     """)
 
 if __name__ == "__main__":
