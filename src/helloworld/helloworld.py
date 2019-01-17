@@ -10,18 +10,21 @@ import six
 def main():
     print("""
     Hello World, from...
+    fork this
     Joel S. Welling
     James Pupalaikis!!!
     Derek Hamersly,
     Evan Schindewolf,
     Megan Roche,
-    Oscar Dadfar
-    Luka Jelenak
+    Oscar Dadfar again,
+    Luka Jelenak is trying his best, okay? :(
     Jalen Kastenberg,
     Jalen Kastenberg!!!!!!
+    EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+    EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+    Yu Hang Xia
 
-    EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-    EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+    Megan: forked edition
     """)
 
 if __name__ == "__main__":
